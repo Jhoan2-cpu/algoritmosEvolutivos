@@ -1,0 +1,3 @@
+##TODOS LOS LABORATORIOS DESARROLLADOS ESTÁN DENTRO DE SU RESPECTIVA CARPETA
+##./Práctica Laboratorio 01
+##./Práctica Laboratorio 02...
